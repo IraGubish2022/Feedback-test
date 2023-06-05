@@ -19,7 +19,7 @@ const App = () => {
           <Route path="*" element={<HomePage />} />
         </Route>
       </Routes>
-    //</ThemeProvider>
+    </ThemeProvider>
   );
 };
 
