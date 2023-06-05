@@ -5,7 +5,7 @@ import App from './components/App';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   //<React.StrictMode>
-  <BrowserRouter basename="/goIT-test-feedback">
+  <BrowserRouter basename="/Feedback-test">
     <App />
   </BrowserRouter>
   //</React.StrictMode>
