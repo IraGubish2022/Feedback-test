@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/goIT-test-feedback/static/css/main.d33dd536.css",
+    "main.js": "/goIT-test-feedback/static/js/main.2a6b1960.js",
+    "static/js/58.4f8f88d5.chunk.js": "/goIT-test-feedback/static/js/58.4f8f88d5.chunk.js",
+    "static/js/578.20a84b9b.chunk.js": "/goIT-test-feedback/static/js/578.20a84b9b.chunk.js",
+    "static/js/664.ed88846c.chunk.js": "/goIT-test-feedback/static/js/664.ed88846c.chunk.js",
+    "static/media/welcome.gif": "/goIT-test-feedback/static/media/welcome.5e05d85e39e752cf4f80.gif",
+    "static/media/bgCard-2x.png": "/goIT-test-feedback/static/media/bgCard-2x.5ad79576d81d7f9dc88f.png",
+    "static/media/nothing.gif": "/goIT-test-feedback/static/media/nothing.7d324d199fc9a0830481.gif",
+    "static/media/Boy-2x.png": "/goIT-test-feedback/static/media/Boy-2x.14bd34d15fee388bd51d.png",
+    "static/media/bgCard-1x.png": "/goIT-test-feedback/static/media/bgCard-1x.cc04705c408df8491ac1.png",
+    "index.html": "/goIT-test-feedback/index.html",
+    "main.d33dd536.css.map": "/goIT-test-feedback/static/css/main.d33dd536.css.map",
+    "main.2a6b1960.js.map": "/goIT-test-feedback/static/js/main.2a6b1960.js.map",
+    "58.4f8f88d5.chunk.js.map": "/goIT-test-feedback/static/js/58.4f8f88d5.chunk.js.map",
+    "578.20a84b9b.chunk.js.map": "/goIT-test-feedback/static/js/578.20a84b9b.chunk.js.map",
+    "664.ed88846c.chunk.js.map": "/goIT-test-feedback/static/js/664.ed88846c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d33dd536.css",
+    "static/js/main.2a6b1960.js"
+  ]
+}
