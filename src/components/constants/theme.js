@@ -1,7 +1,8 @@
 export const theme = {
     colors: {
-      bodyBg: '#766A92',
-      mainTextColor: '#EBD8FF',
+      bodyBg: '#CC95F9',
+      mainTextColor: '#24043F',
+      secondTextColor: '#EFDDFD',
       mainAccent: '#471CA9',
       btnTextColor: '#373737',
       followBtnBgColor: '#EBD8FF',

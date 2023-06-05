@@ -15,6 +15,7 @@ export const Wrapper = styled.div`
 export const Title = styled.h1`
   color: ${p => p.theme.colors.mainTextColor};
   font-size: ${p => p.theme.fontSizes.xl};
+  font-family: italic;
   text-align: center;
 
   @media screen and (min-width: 768px) {
@@ -24,7 +25,8 @@ export const Title = styled.h1`
 
 export const Text = styled.p`
   color: ${p => p.theme.colors.mainTextColor};
-  font-size: ${p => p.theme.fontSizes.m};
+  font-size: ${p => p.theme.fontSizes.l};
+  font-family: italic;
   text-transform: none;
   text-align: center;
 

@@ -9,8 +9,9 @@ export const StyledFooter = styled.footer`
 
 export const FooterText = styled.p`
   text-transform: none;
-  color: rgba(235, 216, 255, 0.5);
-  font-size: ${p => p.theme.fontSizes.xs};
+  color: ${p => p.theme.colors.secondTextColor};
+  font-size: ${p => p.theme.fontSizes.s};
+  font-weight: ${p => p.theme.fontWeights.semiBold};
   text-align: center;
 `;
 

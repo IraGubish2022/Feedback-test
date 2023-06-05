@@ -16,8 +16,8 @@ export const StyledHeader = styled.header`
 `;
 
 export const StyledNavLink = styled(NavLink)`
-  color: ${p => p.theme.colors.mainTextColor};
-  font-size: ${p => p.theme.fontSizes.m};
+  color: ${p => p.theme.colors.secondTextColor};
+  font-size: ${p => p.theme.fontSizes.l};
   font-weight: ${p => p.theme.fontWeights.semiBold};
   transition: color 250ms linear;
 
