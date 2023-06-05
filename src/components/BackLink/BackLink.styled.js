@@ -5,10 +5,11 @@ export const StyledLink = styled(Link)`
   display: inline-flex;
   align-items: center;
   gap: 4px;
-  color: ${p => p.theme.colors.mainTextColor};
+  color: #EBD8FF;
+  //color: ${p => p.theme.colors.mainTextColor};
   text-decoration: none;
   font-weight: ${p => p.theme.fontWeights.semiBold};
-  font-size: ${p => p.theme.fontSizes.m};
+  font-size: ${p => p.theme.fontSizes.l};
   transition: color 250ms linear;
 
   :hover {

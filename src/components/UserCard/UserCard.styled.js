@@ -104,6 +104,7 @@ export const TextWrapper = styled.div`
   text-align: center;
   font-size: ${p => p.theme.fontSizes.l};
   font-weight: ${p => p.theme.fontWeights.medium};
+  color: #EBD8FF;
 
   @media screen and (min-width: 1440px) {
     font-size: ${p => p.theme.fontSizes.xl};
