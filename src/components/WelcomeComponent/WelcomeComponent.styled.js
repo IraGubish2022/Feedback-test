@@ -25,7 +25,7 @@ export const Title = styled.h1`
 
 export const Text = styled.p`
   color: ${p => p.theme.colors.mainTextColor};
-  font-size: ${p => p.theme.fontSizes.l};
+  font-size: ${p => p.theme.fontSizes.xl};
   font-family: italic;
   text-transform: none;
   text-align: center;

@@ -17,9 +17,7 @@ const WelcomeComponent = () => {
       </ImgWrapper>
 
       <Text>
-        Here you can follow the tweets of your acquaintances and friends! Hurry
-        up and follow <StyledLink to={'/tweets'}>the link</StyledLink> to
-        subscribe to your friends!
+      Rather follow <StyledLink to={'/tweets'}>the link</StyledLink> and find new friends and like-minded people!
       </Text>
     </Wrapper>
   );
